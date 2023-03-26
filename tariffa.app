@@ -112,7 +112,7 @@
 1405|onorario minimo per ogni particella derivata oltre la prima
 1501|100
 1404|Redazione di monografia per p.f. o punto ausiliario
-1405|Redazione di monografia per p.f. o punto ausiliario
+1405|Preparazione e Invio per òla registrazione
 1501|150
 1403|AGGIORNAMENTO DELLE MAPPE CATASTALI - MAPPALE
 1603|Tipo mappale (prestazioni finalizzate all’introduzione in mappa di un fabbricato). Il lavoro comprende: accesso all’Agenzia del Territorio provinciale per la richiesta dell’estratto di mappa per aggiornamenti, presentazione ed approvazione catastale, successivo accesso per il ritiro del tipo approvato o in alternativa in modalità telematica
@@ -200,7 +200,7 @@
 1405|per uno sviluppo minimo di 2 Km. con una densità massima di 4 vertici al Km
 1501|450
 1403|MAGGIORAZIONI diverse per le prestazioni di topografia
-1609|utilizzare per impostare un'adeguato Coefficiente
+1609|utilizzare per impostare un'adeguato Coefficiente (copia e incolla)
 1407|a) terreni con pendenza superiore al 3% considerando n% di pendenza effettiva  + 1,5% x (n% – 3)
 1802|1.10
 1407|b) terreni accidentati con caratteristiche di cui al punto a) +10%
@@ -349,7 +349,7 @@
 1404|La voce comprende: a) elaborazione piano di volo; b) impiego di un pilota certificato per l'esecuzione del volo ed eventuale persona aggiuntiva per le operazioni critiche (interferenze); c) utilizzo di marker (G.C.P.) in base all'estensione dell'area da rilevare; d) elaborazione dei fotogrammi acquisiti mediante software dedicato e restituzione ortomosaico (ortofoto) georeferenziato.
 1405|Per ogni ettaro rilevato e restituito
 1501|500
-1603|utilizzare per impostare un'adeguato Coefficiente
+1603|utilizzare per impostare un'adeguato Coefficiente (copia e incolla)
 1407|Volo per restituzione modello 3D
 1802|1.25
 1407|restituzione point cloud (nuvola di punti)
@@ -367,7 +367,7 @@
 1501|1000
 1405|posizonamento di boe di ausilio all'esecuzione dei lavori, per ogni boa
 1501|100
-1609|Informazioni per impostare un'adeguato Coefficiente
+1609|Informazioni per impostare un'adeguato Coefficiente (copia e incolla)
 1407|Restituzione a Curve di livello ogni 50 cm
 1802|1.10
 1407|Restituzione a Curve di livello ogni 25 cm
@@ -389,7 +389,7 @@
 1501|5
 1405|rilievo del fondale prossimo alla riva, per ogni punto oltre la profondità di 50 cm
 1501|8
-1609|Informazioni per impostare un'adeguato Coefficiente
+1609|Informazioni per impostare un'adeguato Coefficiente (copia e incolla)
 1407|Restituzione a Curve di livello ogni metro
 1802|1.10
 1407|Restituzione a Curve di livello ogni 50 cm
