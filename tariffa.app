@@ -349,7 +349,7 @@
 1404|La voce comprende: a) elaborazione piano di volo; b) impiego di un pilota certificato per l'esecuzione del volo ed eventuale persona aggiuntiva per le operazioni critiche (interferenze); c) utilizzo di marker (G.C.P.) in base all'estensione dell'area da rilevare; d) elaborazione dei fotogrammi acquisiti mediante software dedicato e restituzione ortomosaico (ortofoto) georeferenziato.
 1405|Per ogni ettaro rilevato e restituito
 1501|500
-1603|utilizzare per impostare un'adeguato Coefficiente (copia e incolla)
+1609|utilizzare per impostare un'adeguato Coefficiente (copia e incolla)
 1407|Volo per restituzione modello 3D
 1802|1.25
 1407|restituzione point cloud (nuvola di punti)
