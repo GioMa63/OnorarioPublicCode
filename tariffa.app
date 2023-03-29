@@ -142,7 +142,7 @@
 1501|600
 1405|compenso per ogni punto di confine ripristinato oltre al compenso di cui alla voce precedente
 1501|65
-1405|il tempo impiegato per la ricerca presso gli archivi degli atti originali o dei tipi di frazionamento successivi, degli atti di provenienza, visura delle mappe di primo impianto, reperimento e controllo dei punti trigonometrici e dei punti noti e certi oltre all’eventuale contraddittorio con i confinanti o con i tecnici delegati è compensato a vacazione
+1406|il tempo impiegato per la ricerca presso gli archivi degli atti originali o dei tipi di frazionamento successivi, degli atti di provenienza, visura delle mappe di primo impianto, reperimento e controllo dei punti trigonometrici e dei punti noti e certi oltre all’eventuale contraddittorio con i confinanti o con i tecnici delegati è compensato a vacazione
 1502|0
 1403|RILIEVI PLANO-ALTIMETRICI
 1603|Rilevamenti plano-altimetrici sono finalizzati alla formazione di opportuna cartografia e/o modelli digitali del terreno (DTM) eseguiti con il metodo celerimetrico o metodologia GPS su terreni medi e poco alberati con pendenze fino al 3%, (per maggiori difficoltà vedasi il punto 8 maggiorazioni diverse). Il lavoro comprende: a) studio preliminare, acquisizione monografie dei punti stabili riferimento di orientamento esterno e di appoggio; b) materializzazione dei punti di stazione, eventuale redazione monografie; c) poligonale di collegamento o dettaglio; d) rilievo plano-altimetrico per la determinazione dei punti di stazione e di dettaglio; e) calcoli; f ) restituzione e formazione di cartografia numerica. g) disegno su supporto adeguato.
