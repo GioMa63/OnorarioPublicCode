@@ -224,7 +224,7 @@
 1501|150
 1405|b) per ogni nota oltre la prima
 1501|100
-1405|c) il tempo impiegato per la ricerca degli atti presso gli archivi - a vacazione
+1406|c) il tempo impiegato per la ricerca degli atti presso gli archivi - a vacazione
 1502|0
 1403|MOD. 26
 1603|compilazione e presentazione
@@ -240,7 +240,7 @@
 1404|Onorario che comprende anche eventuali integrazioni
 1405|a) per rettifica di intestazione e identificazione catastale
 1501|120
-1405|b) il tempo impiegato per la ricerca degli atti presso gli archivi 1402| a vacazione
+1406|b) il tempo impiegato per la ricerca degli atti presso gli archivi 1402| a vacazione
 1502|0
 1403|TRACCIAMENTO DI CANTIERE
 1603|studio preliminare e progettazione del rilievo
