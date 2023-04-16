@@ -95,7 +95,13 @@
 1609|Stima per la determinazione della rendita catastale relativa alle unità immobiliari di categoria D
 1609|Applicazione dal 50% al 90% di quanto disposto dall’art. 51 lettera C del D.M. 7 settembre 1988, n. 407, tabella G2 aggiornata con D.M. 6.12.1993 n. 596 tabella G3 (giudizio di stima)
 1403|AGGIORNAMENTO DELLE MAPPE CATASTALI - FRAZIONAMENTO
-1603|Tipo di frazionamento - Il lavoro comprende: accesso all’Agenzia del Territorio provinciale per la richiesta dell’estratto di mappa per aggiornamenti, il deposito di legge al Comune di appartenenza, presentazione ed approvazione catastale, successivo accesso per il ritiro del tipo approvato o in alternativa in modalità telematica. Picchettamento escluso da computarsi a vacazione.
+1603|Il lavoro comprende:
+1603|accesso all’Agenzia del Territorio provinciale per la richiesta dell’estratto di mappa per aggiornamenti
+1603|il deposito di legge al Comune di appartenenza
+1603|presentazione ed approvazione catastale
+1603|successivo accesso per il ritiro del tipo approvato
+1603|in alternativa tutto eseguito in modalità telematica
+1603|Picchettamento escluso da computarsi a vacazione
 1404|Tipo di frazionamento comprendente, oltre alle voci sopra descritte, il rilievo con strumentazione adeguata, restituzione informatizzata e redazione del frazionamento compreso in 3 Punti Fiduciali con maglia fino a n. 4 stazioni
 1405|Fino a due particelle ed un massimo di n. 10 punti celerimetrici
 1501|1150
