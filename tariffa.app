@@ -100,7 +100,7 @@
 1603|il deposito di legge al Comune di appartenenza
 1603|presentazione ed approvazione catastale
 1603|successivo accesso per il ritiro del tipo approvato
-1603|in alternativa tutto eseguito in modalità telematica
+1603|In alternativa il tutto eseguito in modalità telematica
 1603|Picchettamento escluso da computarsi a vacazione
 1404|Tipo di frazionamento comprendente, oltre alle voci sopra descritte, il rilievo con strumentazione adeguata, restituzione informatizzata e redazione del frazionamento compreso in 3 Punti Fiduciali con maglia fino a n. 4 stazioni
 1405|Fino a due particelle ed un massimo di n. 10 punti celerimetrici
@@ -123,10 +123,14 @@
 1405|onorario minimo per ogni particella derivata oltre la prima
 1501|100
 1404|Redazione di monografia per p.f. o punto ausiliario
-1405|Preparazione e Invio per òla registrazione
+1405|Preparazione e Invio per la registrazione
 1501|150
 1403|AGGIORNAMENTO DELLE MAPPE CATASTALI - MAPPALE
-1603|Tipo mappale (prestazioni finalizzate all’introduzione in mappa di un fabbricato). Il lavoro comprende: accesso all’Agenzia del Territorio provinciale per la richiesta dell’estratto di mappa per aggiornamenti, presentazione ed approvazione catastale, successivo accesso per il ritiro del tipo approvato o in alternativa in modalità telematica
+1603|Prestazioni finalizzate all’introduzione in mappa di un fabbricato. Il lavoro comprende:
+1603|accesso all’Agenzia del Territorio provinciale per la richiesta dell’estratto di mappa per aggiornamenti
+1603|presentazione ed approvazione catastale
+1603|successivo accesso per il ritiro del tipo approvato
+1603|In alternativa il tutto eseguito in modalità telematica
 1404|Tipo mappale per fabbricati ex-rurali o da accertare al Catasto Fabbricati (senza ampliamenti - conferma topografica - demolizioni) comprendente, oltre alle voci sopra descritte, la verifica della corrispondenza topografica e redazione atto di aggiornamento.
 1405|onorario
 1501|400
@@ -147,7 +151,10 @@
 1405|Per ogni stazione eccedente le prime 4
 1501|50
 1403|RICONFINAMENTI
-1603|Il lavoro comprende: a) rilievo per la determinazione delle coordinate dei punti di confine da ripristinare e dei vertici di stazione delle poligonali di collegamento, oppure individuazione di punti di intersezione degli allineamenti e calcolo delle rispettive distanze; b) apposizione dei termini.
+1603|Il lavoro comprende:
+1603|a) rilievo per la determinazione delle coordinate dei punti di confine da ripristinare e dei vertici di stazione delle poligonali di collegamento
+1603|oppure individuazione di punti di intersezione degli allineamenti e calcolo delle rispettive distanze
+1603|b) apposizione dei termini.
 1404|Per l’intero complesso del lavoro sono dovuti i seguenti onorari
 1405|diritto fisso per prestazioni professionali spettanti a una squadra topografica, dotata di strumentazione, per ogni uscita
 1501|600
