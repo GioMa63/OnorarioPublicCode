@@ -3,7 +3,12 @@
 1102|100
 1402|PRESTAZIONI TOPOGRAFICHE E CATASTALI
 1403|PRESTAZIONI PER IL CATASTO FABBRICATI
-1603|Denuncia al Catasto Fabbricati: stesura planimetrica dell’unita immobiliare, definizione dei poligoni, compilazione modelli in procedura DOCFA, attribuzione rendita catastale e restituzione su supporto informatico, presentazione e ritiro.
+1603|Denuncia al Catasto Fabbricati
+1603|stesura planimetrica dell’unita immobiliare
+1603|definizione dei poligoni
+1603|compilazione modelli in procedura DOCFA
+1603|attribuzione rendita catastale e restituzione su supporto informatico
+1603|presentazione e ritiro
 1609|Procedura per attribuzione della rendita catastale (Docfa) per unità immobiliari urbane già denunciate al Catasto dei Fabbricati ma non censite vengono computati con i valori senza rilievo.
 1404|Uso civile abitazione e uffici in un unico edificio
 1405|singola unità fino a 100 mq con rilievo
