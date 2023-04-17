@@ -102,7 +102,10 @@
 1603|successivo accesso per il ritiro del tipo approvato
 1603|In alternativa il tutto eseguito in modalità telematica
 1603|Picchettamento escluso da computarsi a vacazione
-1404|Tipo di frazionamento comprendente, oltre alle voci sopra descritte, il rilievo con strumentazione adeguata, restituzione informatizzata e redazione del frazionamento compreso in 3 Punti Fiduciali con maglia fino a n. 4 stazioni
+1404|Tipo di frazionamento comprendente inoltre
+1604|il rilievo con strumentazione adeguata
+1604|la restituzione informatizzata
+1604|la redazione del frazionamento compreso in 3 Punti Fiduciali con maglia fino a n. 4 stazioni
 1405|Fino a due particelle ed un massimo di n. 10 punti celerimetrici
 1501|1150
 1405|Per ogni particella derivata in più
