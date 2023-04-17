@@ -363,9 +363,15 @@
 1102|100
 1402|PRESTAZIONI TOPOGRAFICHE SPECIALI
 1403|RILIEVO AEROFOTOGRAMMETRICO
-1603|Rilievo aerofotogrammetrico eseguito con dispositivo drone (U.A.S.) a pilotaggio remoto munito di fotocamera stabilizzata su 3 assi e sistema di calibrazione del volo tramite IMU e GPS. La voce comprende:
-1404|La voce comprende: a) elaborazione piano di volo; b) impiego di un pilota certificato per l'esecuzione del volo ed eventuale persona aggiuntiva per le operazioni critiche (interferenze); c) utilizzo di marker (G.C.P.) in base all'estensione dell'area da rilevare; d) elaborazione dei fotogrammi acquisiti mediante software dedicato e restituzione ortomosaico (ortofoto) georeferenziato.
-1405|Per ogni ettaro rilevato e restituito
+1603|Rilievo aerofotogrammetrico eseguito con dispositivo drone (U.A.S.)
+1603|La voce comprende:
+1603|Drone a pilotaggio remoto munito di fotocamera stabilizzata su 3 assi e sistema di calibrazione del volo tramite IMU e GPS.
+1603|a) elaborazione piano di volo; 
+1603|b) impiego di un pilota certificato per l'esecuzione del volo ed eventuale persona aggiuntiva per le operazioni critiche (interferenze);
+1603|c) utilizzo di marker (G.C.P.) in base all'estensione dell'area da rilevare;
+1603|d) elaborazione dei fotogrammi acquisiti mediante software dedicato e restituzione ortomosaico (ortofoto) georeferenziato.
+1404|Volo, elaborazione e restituzione 
+1405|Per ogni ettaro
 1501|500
 1609|utilizzare per impostare un'adeguato Coefficiente (copia e incolla)
 1407|Volo per restituzione modello 3D
