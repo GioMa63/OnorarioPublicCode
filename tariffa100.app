@@ -190,7 +190,7 @@
 1501|4.50
 1404|Rilievi plano-altimetrici di dettaglio per strade e relativo arredo urbano, canali naturali e di bonifica, ferrovie, ecc
 1405|fino alla larghezza di 40 m. per ogni Km., con un minimo di 600 m., e fino a max. 500 punti di rilievo
-1504|1550
+1501|1550
 1405|per ogni punto in più oltre i 500 precedenti
 1501|2.50
 1405|per ogni 10 m. ulteriori oltre i 40 m. per ogni Km
