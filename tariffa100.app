@@ -166,7 +166,14 @@
 1406|il tempo impiegato per la ricerca presso gli archivi degli atti originali o dei tipi di frazionamento successivi, degli atti di provenienza, visura delle mappe di primo impianto, reperimento e controllo dei punti trigonometrici e dei punti noti e certi oltre all’eventuale contraddittorio con i confinanti o con i tecnici delegati è compensato a vacazione
 1502|0
 1403|RILIEVI PLANO-ALTIMETRICI
-1603|Rilevamenti plano-altimetrici sono finalizzati alla formazione di opportuna cartografia e/o modelli digitali del terreno (DTM) eseguiti con il metodo celerimetrico o metodologia GPS su terreni medi e poco alberati con pendenze fino al 3%, (per maggiori difficoltà vedasi il punto 8 maggiorazioni diverse). Il lavoro comprende: a) studio preliminare, acquisizione monografie dei punti stabili riferimento di orientamento esterno e di appoggio; b) materializzazione dei punti di stazione, eventuale redazione monografie; c) poligonale di collegamento o dettaglio; d) rilievo plano-altimetrico per la determinazione dei punti di stazione e di dettaglio; e) calcoli; f ) restituzione e formazione di cartografia numerica. g) disegno su supporto adeguato.
+1603|Rilevamenti plano-altimetrici sono finalizzati alla formazione di opportuna cartografia e/o modelli digitali del terreno (DTM)
+1603|eseguiti con il metodo celerimetrico o metodologia GPS su terreni medi e poco alberati con pendenze fino al 3%
+1603|(per maggiori difficoltà vedasi il punto 8 maggiorazioni diverse).
+1603|Il lavoro comprende: a) studio preliminare, acquisizione monografie dei punti stabili riferimento di orientamento esterno e di appoggio
+1603|b) materializzazione dei punti di stazione, eventuale redazione monografie
+1603|c) poligonale di collegamento o dettaglio
+1603|d) rilievo plano-altimetrico per la determinazione dei punti di stazione e di dettaglio
+1603|e) calcoli; f ) restituzione e formazione di cartografia numerica. g) disegno su supporto adeguato.
 1404|Dettaglio fino a 30 punti per ha
 1405|onorario per ha, con un minimo di 1 ha fino a 5 ha
 1501|800
@@ -200,7 +207,10 @@
 1407|Per integrazione con definizione a curve di livello si applica una maggiorazione del 20%
 1802|1.20
 1403|PROFILI LONGITUDINALI
-1603|Il lavoro comprende: a) misura delle distanze e dei dislivelli con strumenti idonei; b) calcolo distanze parziali e progressive e quote altimetriche; c) restituzione grafica e disegno in scala adeguata; Al geometra è sempre dovuto un onorario non inferiore a quello corrispondente a un Km. Dai predetti compensi sono escluse le eventuali poligonali di collegamento che sono compensate secondo quanto previsto al punto 7.
+1603|Il lavoro comprende: a) misura delle distanze e dei dislivelli con strumenti idonei
+1603|b) calcolo distanze parziali e progressive e quote altimetriche
+1603|c) restituzione grafica e disegno in scala adeguata; Al geometra è sempre dovuto un onorario non inferiore a quello corrispondente a un Km
+1603|Dai predetti compensi sono escluse le eventuali poligonali di collegamento che sono compensate secondo quanto previsto al punto 7.
 1404|tariffa in base alla densità dei punti
 1405|densità fino a 60 punti al Km., costo a Km
 1501|700
@@ -209,14 +219,20 @@
 1405|densità da 80 a 100 punti al Km., costo a Km
 1501|1100
 1403|SEZIONI TRASVERSALI
-1603|Il lavoro comprende: a) misura delle distanze e dei dislivelli con strumentazione idonea; b) calcolo distanze parziali e dislivelli; c) restituzione grafica e disegno in scala adeguata. Dai predetti compensi sono escluse le eventuali poligonali di collegamento che sono compensate secondo quanto previsto al punto 7.
+1603|Il lavoro comprende: a) misura delle distanze e dei dislivelli con strumentazione idonea
+1603|b) calcolo distanze parziali e dislivelli
+1603|c) restituzione grafica e disegno in scala adeguata
+1603|Dai predetti compensi sono escluse le eventuali poligonali di collegamento che sono compensate secondo quanto previsto al punto 7.
 1404|Onorario per un intervento minimo di 10 sezioni
 1405|per ogni sezione fino a 40 m. di lunghezza
 1501|90
 1405|per ogni metro oltre i 40 m
 1501|2
 1403|POLIGONALI PLANO-ALTIMETRICHE DI COLLEGAMENTO
-1603|Fasi di attuazione: a) scelta del tracciato e materializzazione dei vertici o assistenza all’apposizione degli stessi; b) misura delle distanze mediante distanziometri elettronici o G.P.S. in base alle tolleranze richieste; c) calcolo per la determinazione plano1402|altimetrica dei vertici e compensazione dei residui di chiusura; d) compilazione del catalogo dei vertici (monografie).
+1603|Fasi di attuazione: a) scelta del tracciato e materializzazione dei vertici o assistenza all’apposizione degli stessi
+1603|b) misura delle distanze mediante distanziometri elettronici o G.P.S. in base alle tolleranze richieste
+1603|c) calcolo per la determinazione plano1402|altimetrica dei vertici e compensazione dei residui di chiusura
+1603|d) compilazione del catalogo dei vertici (monografie).
 1404|Onorario
 1405|per uno sviluppo minimo di 2 Km. con una densità massima di 4 vertici al Km
 1501|450
@@ -272,7 +288,12 @@
 1501|15
 1402|PRESTAZIONI PER REDAZIONE TABELLE MILLESIMALI
 1403|REDAZIONE DI TABELLE MILLESIMALI
-1603|Le tabelle millesimali saranno comprensive di: a) Calcolo delle superfici virtuali b) Redazione delle tabelle millesimali generali di proprietà c) Redazione delle tabelle millesimali del vano scale
+1603|Le tabelle millesimali saranno comprensive di
+1603|a) Calcolo delle superfici virtuali 
+1603|b) Redazione delle tabelle millesimali generali di proprietà 
+1603|c) Redazione delle tabelle millesimali del vano scale
+1603|In mancanza degli elaborati conformi forniti dal committente sarà da conteggiare un onorario aggiuntivo da calcolarsi secondo l’Allegato 1
+1603|L'onorario per tabelle millesimali aggiuntive oltre a quelle elencate alle lettere a), b), c) saranno da calcolare a discrezione.
 1404|a) Fino a 10 u.i.u
 1405|Alloggi - uffici - negozi
 1501|120  
@@ -288,7 +309,6 @@
 1501|80 
 1405|Autorimesse - posti auto scoperti - depositi - magazzini
 1501|40
-1609|In mancanza degli elaborati conformi forniti dal committente sarà da conteggiare un onorario aggiuntivo da calcolarsi secondo l’Allegato 1. L'onorario per tabelle millesimali aggiuntive oltre a quelle elencate alle lettere a), b), c) saranno da calcolare a discrezione.
 1609|vedi Capitolo Allegato 1
 1402|PRESTAZIONI PER CERTIFICAZIONE ENERGETICA DI EDIFICI RESIDENZIALI,TERZIARI E COMMERCIALI
 1403|EDIFICI CLASSI ENERGETICHE A,B,C
@@ -384,8 +404,12 @@
 1407|restituzione isoipse
 1802|1.25
 1403|RILIEVO TOPO BATIMETRICO
-1603|Consiste nel rilievo dei fondali mediante l'utilizzo di un sistema integrato formato da ricevitore GPS ed Ecoscandaglio (Multibeam o Singlebeam) finalizzato al rilievo sincronizzato della posizione planimetrica e della profondità dei fondali fluviali o marini
-1404|Comprende inoltre: Un sistema che visualizzi e guidi l'imbarcazione presso le Rotte o Posizioni prestabiliti, l'imbarcazione adatta alle profondità richieste, una post elaborazione che minimizzi gli errori di ondulazione mediante l'analisi delle quote orotometriche e corregga le profondità attraverso la verifica degli andamenti di marea mediante la consultazione delle stazioni mareografiche poste nelle vicinanze
+1603|Consiste nel rilievo dei fondali mediante l'utilizzo di un sistema integrato formato da ricevitore GPS ed Ecoscandaglio (Multibeam o Singlebeam)
+1603|finalizzato al rilievo sincronizzato della posizione planimetrica e della profondità dei fondali fluviali o marini
+1603|Comprende inoltre: Un sistema che visualizzi e guidi l'imbarcazione presso le Rotte o Posizioni prestabiliti
+1603|l'imbarcazione adatta alle profondità richieste, una post elaborazione che minimizzi gli errori di ondulazione mediante l'analisi delle quote orotometriche
+1603|corregga le profondità attraverso la verifica degli andamenti di marea mediante la consultazione delle stazioni mareografiche poste nelle vicinanze
+1404|Prestazione con le caratteristiche minime sopra indicate
 1405|Onorario fisso per una squadra che comprende addetto alle misurazioni, addetto al montaggio delle attrezzature, timoniere, oltre noleggio imbarcazione, elaborazione e restituzione a curve di livello a 1 metro, su adeguato supporto, rilievo compensato e georiferito alla cartografia di progetto
 1501|1000
 1405|Fino a 2000 punti di batimetria 
@@ -403,7 +427,9 @@
 1802|1.10
 1403|RILIEVO SPIAGGIA E OPERE AD INTEGRAZIONE DEI RILIEVI BATIMETRICI
 1603|Consiste nel rilievo della linea di riva, di eventuali sezioni di raccordo a quelle batimetriche, di strutture ricadenti a ridosso del bacino oggetto di indagine
-1404|Comprende inoltre: Un sistema che visualizzi e guidi l'operatore lungo le sezioni pre impostate, un addetto alle riprese fotografiche, attrezzature idonee al rilievo del fondale prossimo alla linea di riva, sino alla profondità di 50 cm
+1603|Comprende inoltre: Un sistema che visualizzi e guidi l'operatore lungo le sezioni pre impostate
+1603|un addetto alle riprese fotografiche, attrezzature idonee al rilievo del fondale prossimo alla linea di riva sino alla profondità di 50 cm
+1404|Prestazione con le caratteristiche minime sopra indicate
 1405|Onorario fisso, per km di linea di riva o frazione di essa rilevata, restituione a piano quotato, disegno linea di riva
 1501|1000
 1405|Per ogni km o frazione di esso oltre il primo km della linea di riva rilevata
