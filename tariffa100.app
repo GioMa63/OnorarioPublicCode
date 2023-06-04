@@ -449,3 +449,23 @@
 1802|1.15
 1407|Restituzione a Curve di livello ogni 25 cm
 1802|1.20
+1402|Prestazioni Urbanistiche
+1403|Richiesta di Permesso di Costruire
+1603|1. Raccolta delle informazioni preliminari
+1603|2. Studio di fattibilità
+1603|3. Redazione del progetto
+1603|4. Preparazione della documentazione amministrativa
+1603|5. Presentazione della pratica edilizia
+1603|6. Valutazione e approvazione
+1603|7. Rilascio del permesso di costruire
+1603|8. Monitoraggio e conformità
+1404|Nuovo Edificio
+1405|Onorario fisso fino a 1000 MC 
+1501|2500
+1405|Per ogni MC oltre i 1000
+1501|100
+1404|Nuovo Manufatto diverso da Edificio (Muro sostegno, Recinzione)
+1405|Onorario fisso fino a 50 ML
+1501|1600
+1405|Per ogni ML in più di 50
+1501|20
