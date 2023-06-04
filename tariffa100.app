@@ -459,13 +459,14 @@
 1603|6. Valutazione e approvazione
 1603|7. Rilascio del permesso di costruire
 1603|8. Monitoraggio e conformità
+1603|Onorario per la pratica Sismica da computarsi separatamente
 1404|Nuovo Edificio
 1405|Onorario fisso fino a 1000 MC 
 1501|2500
 1405|Per ogni MC oltre i 1000
-1501|100
+1501|1
 1404|Nuovo Manufatto diverso da Edificio (Muro sostegno, Recinzione)
 1405|Onorario fisso fino a 50 ML
 1501|1600
 1405|Per ogni ML in più di 50
-1501|20
+1501|5
