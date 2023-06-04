@@ -394,7 +394,9 @@
 1603|c) utilizzo di marker (G.C.P.) in base all'estensione dell'area da rilevare;
 1603|d) elaborazione dei fotogrammi acquisiti mediante software dedicato e restituzione ortomosaico (ortofoto) georeferenziato.
 1404|Volo, elaborazione e restituzione 
-1405|Per ogni ettaro
+1405|Onorario fisso per il primo Ettaro
+1501|1000
+1405|Per ogni ettaro o frazione oltre il primo
 1501|500
 1609|utilizzare per impostare un'adeguato Coefficiente (copia e incolla)
 1407|Volo per restituzione modello 3D
