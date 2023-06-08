@@ -452,18 +452,13 @@
 1407|Restituzione a Curve di livello ogni 25 cm
 1802|1.20
 1402|Prestazioni Urbanistiche
+1403|Accertamento dello stato legittimo mediante accesso agli atti e verifiche in sito
+1404|Richiesto per l'esecuzione di pratiche edilizie a immobile esistente
+1405|Importo a corpo, sempre dovuto
+1501|1200           
 1403|Richiesta di Permesso di Costruire
 2701|NotePdC.rtf
-1603|1. Raccolta delle informazioni preliminari
-1603|2. Studio di fattibilità
-1603|3. Redazione del progetto
-1603|4. Preparazione della documentazione amministrativa
-1603|5. Presentazione della pratica edilizia
-1603|6. Valutazione e approvazione
-1603|7. Rilascio del permesso di costruire
-1603|8. Monitoraggio e conformità
-1603|Onorario per la pratica Sismica da computarsi separatamente
-1404|Nuovo Edificio
+1404|Nuovo Edificio, ampliamento o sopraelevazione di fabbricato esistente
 1405|Onorario fisso fino a 1000 MC 
 1501|2500
 1405|Per ogni MC oltre i 1000
