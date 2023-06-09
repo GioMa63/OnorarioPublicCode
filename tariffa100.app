@@ -452,9 +452,9 @@
 1407|Restituzione a Curve di livello ogni 25 cm
 1802|1.20
 1402|Prestazioni Urbanistiche
-1403|Accertamento dello stato legittimo mediante accesso agli atti e verifiche in sito
+1403|Accertamento dello stato legittimo di un immobile
 2701|NoteVerificaImmobile.rtf
-1404|Onorario sempre dovuto per qualsiasi attività edilizia
+1404|Il compenso si applica per ogni edificio/unità oggetto di verifica
 1405|Importo a corpo
 1501|1200           
 1403|Richiesta di Permesso di Costruire
