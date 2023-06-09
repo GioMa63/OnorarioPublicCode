@@ -454,7 +454,8 @@
 1402|Prestazioni Urbanistiche
 1403|Accertamento dello stato legittimo mediante accesso agli atti e verifiche in sito
 2701|NoteVerificaImmobile.rtf
-1405|Importo a corpo, sempre dovuto
+1404|Onorario sempre dovuto per qualsiasi attività edilizia
+1405|Importo a corpo
 1501|1200           
 1403|Richiesta di Permesso di Costruire
 2701|NotePdC.rtf
