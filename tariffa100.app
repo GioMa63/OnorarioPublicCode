@@ -453,7 +453,7 @@
 1802|1.20
 1402|Prestazioni Urbanistiche
 1403|Accertamento dello stato legittimo mediante accesso agli atti e verifiche in sito
-1404|Richiesto per l'esecuzione di pratiche edilizie a immobile esistente
+2701|NoteVerificaImmobile.rtf
 1405|Importo a corpo, sempre dovuto
 1501|1200           
 1403|Richiesta di Permesso di Costruire
