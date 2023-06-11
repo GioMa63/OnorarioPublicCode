@@ -134,8 +134,8 @@
 1603|presentazione ed approvazione catastale
 1603|successivo accesso per il ritiro del tipo approvato
 1603|In alternativa il tutto eseguito in modalità telematica
-1404|Tipo mappale per fabbricati ex-rurali o da accertare al Catasto Fabbricati (senza ampliamenti - conferma topografica - demolizioni) comprendente, oltre alle voci sopra descritte, la verifica della corrispondenza topografica e redazione atto di aggiornamento.
-1405|onorario
+1404|Tipo mappale per fabbricati ex-rurali o da accertare al Catasto Fabbricati (senza ampliamenti - conferma topografica - demolizioni)
+1405|onorario che comprende, oltre alle voci sopra descritte, la verifica della corrispondenza topografica e redazione atto di aggiornamento.
 1501|400
 1404|Tipo mappale di modesta entità, conforme alla circ. 2/88 per ampliamenti inferiori al 50% e per fabbricati in corpo separato, comprendente, oltre alle voci sopra descritte, il rilievo senza l’ausilio dei PF e redazione atto di aggiornamento.
 1405|onorario
