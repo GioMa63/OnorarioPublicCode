@@ -222,11 +222,8 @@
 1405|per ogni metro oltre i 40 m
 1501|2
 1403|POLIGONALI PLANO-ALTIMETRICHE DI COLLEGAMENTO
-1603|Fasi di attuazione: a) scelta del tracciato e materializzazione dei vertici o assistenza all’apposizione degli stessi
-1603|b) misura delle distanze mediante distanziometri elettronici o G.P.S. in base alle tolleranze richieste
-1603|c) calcolo per la determinazione plano1402|altimetrica dei vertici e compensazione dei residui di chiusura
-1603|d) compilazione del catalogo dei vertici (monografie).
-1404|Onorario
+2701|NotePoliginaliPlanoAltimetriche.rtf
+1404|Onorario minimo
 1405|per uno sviluppo minimo di 2 Km. con una densità massima di 4 vertici al Km
 1501|450
 1403|MAGGIORAZIONI diverse per le prestazioni di topografia
