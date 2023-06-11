@@ -455,3 +455,9 @@
 1501|1600
 1405|Per ogni ML in più di 50
 1501|5
+1403|Cominicazione Inzio Lavori Asseverata (CILA)
+2701|NoteCILA.rtf
+1404|Per opere di manutenzione straordinaria
+1405|Onorario fisso per unità immobiliare/edificio
+1501|1200
+
