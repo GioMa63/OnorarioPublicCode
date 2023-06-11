@@ -166,14 +166,7 @@
 1406|il tempo impiegato per la ricerca presso gli archivi degli atti originali o dei tipi di frazionamento successivi, degli atti di provenienza, visura delle mappe di primo impianto, reperimento e controllo dei punti trigonometrici e dei punti noti e certi oltre all’eventuale contraddittorio con i confinanti o con i tecnici delegati è compensato a vacazione
 1502|0
 1403|RILIEVI PLANO-ALTIMETRICI
-1603|Rilevamenti plano-altimetrici sono finalizzati alla formazione di opportuna cartografia e/o modelli digitali del terreno (DTM)
-1603|eseguiti con il metodo celerimetrico o metodologia GPS su terreni medi e poco alberati con pendenze fino al 3%
-1603|(per maggiori difficoltà vedasi il punto 8 maggiorazioni diverse).
-1603|Il lavoro comprende: a) studio preliminare, acquisizione monografie dei punti stabili riferimento di orientamento esterno e di appoggio
-1603|b) materializzazione dei punti di stazione, eventuale redazione monografie
-1603|c) poligonale di collegamento o dettaglio
-1603|d) rilievo plano-altimetrico per la determinazione dei punti di stazione e di dettaglio
-1603|e) calcoli; f ) restituzione e formazione di cartografia numerica. g) disegno su supporto adeguato.
+2701|NoteRilieviPlanoAltimetrici.rtf
 1404|Dettaglio fino a 30 punti per ha
 1405|onorario per ha, con un minimo di 1 ha fino a 5 ha
 1501|800
