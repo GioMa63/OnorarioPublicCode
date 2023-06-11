@@ -396,11 +396,7 @@
 1407|restituzione isoipse
 1802|1.25
 1403|RILIEVO TOPO BATIMETRICO
-1603|Consiste nel rilievo dei fondali mediante l'utilizzo di un sistema integrato formato da ricevitore GPS ed Ecoscandaglio (Multibeam o Singlebeam)
-1603|finalizzato al rilievo sincronizzato della posizione planimetrica e della profondità dei fondali fluviali o marini
-1603|Comprende inoltre: Un sistema che visualizzi e guidi l'imbarcazione presso le Rotte o Posizioni prestabiliti
-1603|l'imbarcazione adatta alle profondità richieste, una post elaborazione che minimizzi gli errori di ondulazione mediante l'analisi delle quote orotometriche
-1603|corregga le profondità attraverso la verifica degli andamenti di marea mediante la consultazione delle stazioni mareografiche poste nelle vicinanze
+2701|NoteRilievoTopoBatimetrico.rtf
 1404|Prestazione con le caratteristiche minime sopra indicate
 1405|Onorario fisso per una squadra che comprende addetto alle misurazioni, addetto al montaggio delle attrezzature, timoniere, oltre noleggio imbarcazione, elaborazione e restituzione a curve di livello a 1 metro, su adeguato supporto, rilievo compensato e georiferito alla cartografia di progetto
 1501|1000
