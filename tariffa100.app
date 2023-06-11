@@ -398,7 +398,7 @@
 1403|RILIEVO TOPO BATIMETRICO
 2701|NoteRilievoTopoBatimetrico.rtf
 1404|Prestazione con le caratteristiche minime sopra indicate
-1405|Onorario fisso per una squadra che comprende addetto alle misurazioni, addetto al montaggio delle attrezzature, timoniere, oltre noleggio imbarcazione, elaborazione e restituzione a curve di livello a 1 metro, su adeguato supporto, rilievo compensato e georiferito alla cartografia di progetto
+1405|Onorario fisso
 1501|1000
 1405|Fino a 2000 punti di batimetria 
 1501|2500
