@@ -1,4 +1,4 @@
-Pos Gen;Cognome;Nome;Voto;Regione;Provincia;Pos Reg;Pos Prov
+PosGen;Cognome;Nome;Voto;Regione;Provincia;PosReg;PosProv
 1;LUPI;ALESSANDRO;59.75;Lazio;RI;RI;1
 2;PATAVIA;GABRIELE;59.5;Veneto;VI;VI;1
 3;DI LUCA CARDILLO;CLAUDIO;58.925;Sicilia;ME;ME;1
